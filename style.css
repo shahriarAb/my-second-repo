@@ -1,0 +1,26 @@
+.author-name{
+    color: #700707;
+}
+.blog{
+    background-color: rgba(0, 255, 255, 0.322);
+    color:rgb(15, 45, 53); 
+    border-top: 5px solid green;
+    border-radius: 30px;
+    margin: 20px 30px 20px 30px;
+    padding: 15px 25px 20px 25px;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+#header{
+    color: crimson;
+}
+.header-title{
+text-align: center;
+font-size: 30px;
+font-weight: 800;
+font-family: 'Times New Roman', Times, serif;
+}
+h4{
+    display: inline;  
+}
